@@ -1,0 +1,131 @@
+This file explains the context of each scene extracted from the cutscene engine.
+If you want to watch the cutscenes for additonal context, you can do so easily through the debug mode.
+You can also access them normally through the following passwords:
+AAAAAAAA (Chapter 1)
+ABXYYXBA (Chapter 1)
+BABABAXY (Chapter 2)
+YXXAAXXY (Chapter 3)
+AAAABBBB (Chapter 4)
+BBBXYAAA (Chapter 5)
+XYYXABBA (Chapter 6)
+YABAYABA (Chapter 7)
+AXBXXXYX (Chapter 8)
+BABYBABY (Triggers the ending)
+XAXAXAXA (Chapter 7 no intro)
+(Must be entered after enabling Namcot Theater mode by pressing Select 5 times on the title screen)
+
+
+1_0.txt
+Text for clearing the first tourament
+
+1_1.txt
+Text for clearing the second tourament
+
+1_2.txt
+Text for clearing the third tourament
+
+1_3.txt
+Text for clearing the fourth tourament
+
+02.txt
+Namcot Theater: Chapter 1 pre-match
+
+03.txt
+Namcot Theater: Chapter 1 game over
+
+04.txt
+Namcot Theater: Chapter 1 post-match
+
+05.txt
+Namcot Theater: Chapter 2 pre-match
+
+06.txt
+Namcot Theater: Win a game against Wild
+
+07.txt
+Namcot Theater: Lose a game to Wild
+
+08.txt
+Namcot Theater: After losing 3 games to Wild, but only if you did not trigger scene 09.
+
+09.txt
+Namcot Theater: After winning 5 games against Wild, but only if you
+did not trigger scene 08.
+
+0A.txt
+Namcot Theater: Chapter 2 post-match part 1
+
+0B.txt
+Namcot Theater: Chapter 2 post-match part 2
+
+0C.txt
+Namcot Theater: Chapter 2 game over
+
+0D.txt
+Namcot Theater: Chapter 3 pre-match
+
+0E.txt
+Namcot Theater: Chapter 3 post-match
+
+0F.txt
+Namcot Theater: Chapter 3 game over
+
+10.txt
+Namcot Theater: Chapter 4 pre-match
+
+11.txt
+Namcot Theater: Chapter 4 post-match part 1
+
+12.txt
+Namcot Theater: Chapter 4 post-match part 2
+
+13.txt
+Namcot Theater: Chapter 4 game over
+
+14.txt
+Namcot Theater: Chapter 5 pre-match
+
+15.txt
+Namcot Theater: Chapter 5 post-match
+
+16.txt
+Namcot Theater: Chapter 5 game over
+
+17.txt
+Namcot Theater: Chapter 6 pre-match
+
+18.txt
+Namcot Theater: Chapter 6 inbetween sets 1 and 2
+
+19.txt
+Namcot Theater: Chapter 6 inbetween sets 2 and 3
+
+1A.txt
+Namcot Theater: Chapter 6 post-match
+
+1B.txt
+Namcot Theater: Chapter 6 game over
+
+1C.txt
+Namcot Theater: Chapter 7 pre-match
+
+1D.txt
+Namcot Theater: Chapter 7 post-match part 1
+
+1E.txt
+Namcot Theater: Chapter 7 post-match part 2
+
+1F.txt
+Namcot Theater: Chapter 8 pre-match
+
+20.txt
+Namcot Theater: Chapter 8 game over
+
+21.txt
+Namcot Theater: Chaper 8 post-match
+
+22.txt
+Namcot Theater: Credits and post credits
+
+25.txt
+Text for clearing the fith tourament

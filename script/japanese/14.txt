@@ -1,0 +1,18 @@
+{Speed: 0}牧野「{Speed: 2}マコ、この沖縄のムーン
+ビーチオープンが最後だ。{Speed: 4}{Speed: 2}気を
+ひきしめていけよ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}はいっ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}最初の相手はブラボーと
+いって、フォアは よわいが
+バックが強烈だ。{Speed: 4}{Speed: 2}バックで
+うたせないように気をつけろ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ブラボー「{Speed: 1}ひゃっほぅ!{Speed: 3}{Speed: 2}きみが
+あのダンディをたおしたという
+マコちゃんかい?{Speed: 12}{Speed: 2}ぼくはあんな
+キザおとこみたいなわけには
+いかないよ。{Speed: 4}{Speed: 2}{Speed: 1}ひゃっほっほぅ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

@@ -1,0 +1,31 @@
+Free space at the end of banks:
+PRG $00DB75 - $00FFFF ($248B bytes)
+PRG $017B61 - $017FFF ($049F bytes)
+PRG $01FB09 - $01FFFF ($04F7 bytes) ($01FB08 is also an FF, but it is used data)
+PRG $0279E8 - $027FFF ($0618 bytes)
+PRG $02F585 - $02FFFF ($0A7B bytes)
+PRG $037F00 - $037FFF ($0100 bytes)
+PRG $057880 - $057FFF ($0780 bytes)
+PRG $0DFBD6 - $0DFFFF ($042A bytes)
+PRG $0F7E8C - $0F7FFF ($0174 bytes)
+Total free: $4CD2 bytes.
+
+Too small to be useful:
+PRG $047FAB - $047FFF ($0055 bytes)
+PRG $097FE9 - $097FFF ($0023 bytes)
+PRG $09FFEB - $09FFFF ($0015 bytes)
+PRG $0A7FEC - $0A7FFF ($0014 bytes)
+PRG $0AFFF5 - $0AFFFF ($000B bytes)
+PRG $0B7FFC - $0B7FFF ($0004 bytes)
+PRG $0BFFF0 - $0BFFFF ($0010 bytes)
+PRG $0C7FED - $0C7FFF ($0013 bytes)
+PRG $0CFFFE - $0CFFFF ($0002 bytes)
+PRG $0FFF9C - $0FFFFF ($0064 bytes)
+
+
+
+
+The follow ranges are FFs, but they are not at the end of a bank, so they are probably not safe to use as free space.
+PRG $03F880 - $03F8EF
+PRG $04F880 - $04FDFF
+PRG $05F880 - $05FDFF

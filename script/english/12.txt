@@ -1,0 +1,9 @@
+{Speed: 0}Makino: "{Speed: 1}Ugh!{Speed: 2}
+ That guy really grinds my
+ gears!{Speed: 6}{Speed: 1} You'd better not get
+ mixed up with him, Mako."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}Uh,{Speed: 8}{Speed: 2} Mako?{Speed: 4}{Speed: 2}
+ Hey!{Speed: 1} Mako!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

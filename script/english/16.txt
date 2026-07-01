@@ -1,0 +1,10 @@
+{Speed: 0}Bravo: "{Speed: 1}Ya-hoo!{Speed: 4}{Speed: 2}
+ You're a far cry from being
+ a match for me!{Speed: 4}{Speed: 2}
+ Come find me again.
+ I'm game whenever you are.{Speed: 4}{Speed: 2}
+ Now, all together now,
+ everyone...{Speed: 1} Give me a big
+ YA-HOO!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

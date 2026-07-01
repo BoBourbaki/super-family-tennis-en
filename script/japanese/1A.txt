@@ -1,0 +1,30 @@
+{Speed: 0}ミルク「{Speed: 2}負けたわ。{Speed: 4}{Speed: 2}マコ、わた
+しの負けよ。{Speed: 4}{Speed: 2}ダンディのことは
+キッパリあきらめるわ。{Speed: 4}{Speed: 2}どうぞ
+おしあわせにね」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}えっ?!{Speed: 3}{Speed: 2} わたしに
+ゆずってくれるの?!{Speed: 3}{Speed: 2}{Speed: 1}ほんと?{Speed: 4}{Speed: 2}
+キャー うれしー!{Speed: 5}{Speed: 2}ダンディ!
+{Speed: 8}{Speed: 2}わたしのダンディ~」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}えっ!?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}まってよー わたしの
+ダンディってばぁ{Speed: 1}~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}ダンディ~!」
+{Speed: 0}ダンディ「{Speed: 2}マコく~ん!{Speed: 3}{Speed: 2}たすけ
+てくれたまえ{Speed: 1}~~~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}ダンディは わたしの
+ものよー」
+{Speed: 0}ダンディ「{Speed: 2}マコく~ん。{Speed: 4}{Speed: 2}
+ マコくんてばぁ{Speed: 1}~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}ダンディ{Speed: 1}~~~~!」
+{Speed: 0}ダンディ「{Speed: 2}マコく{Speed: 1}~~~ん!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}やれやれ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

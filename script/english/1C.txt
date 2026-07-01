@@ -1,0 +1,57 @@
+{Speed: 0}Mako: "{Speed: 2}(Yawn){Speed: 4}{Speed: 2}...
+ Yeah, this is Mako..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}Huh!?{Speed: 8}{Speed: 1}
+ What's going on!?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Milk's been
+ kidnapped, is what.{Speed: 4}{Speed: 2}
+ Someone left me an unsavory
+ letter spelling out the
+ terms of her ransom..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 2}>Come to Namco Shrine at
+ 3 AM sharp tomorrow
+ morning!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Dandy!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 1}Milk!{Speed: 3}{Speed: 2}
+{Speed: 2} Are you OK!?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}These two are
+ siblings, tennis players
+ from Russia who play
+ doubles...{Speed: 8}{Speed: 0}
+       {Prompt}
+
+{Speed: 2} Piroshkinov, and his sister
+ Caviano.
+ Piroshkinov fell for me at
+ first sight and asked me to
+ come with him to Siberia.{Speed: 8}{Speed: 0}
+       {Prompt}
+
+{Speed: 2} But when I told him I had
+ someone already, he said he
+ wanted to challenge them to
+ a tennis match..."{Speed: 6}{Speed: 0}
+       {Prompt}
+
+{Speed: 0}Piroshkinov: "{Speed: 2}I adore Milk
+ more than I love bread.{Speed: 4}{Speed: 2}
+ Come and face me,{Speed: 4}{Speed: 2} Dandy!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Mako, will you help
+ me?{Speed: 8}{Speed: 2} I want you to be my
+ doubles partner.{Speed: 12}{Speed: 2}
+ What do you say?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}All right."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}OK!{Speed: 8}{Speed: 2}
+ Hang in there Milk!{Speed: 3}{Speed: 2}
+ We'll be right there to
+ rescue you!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

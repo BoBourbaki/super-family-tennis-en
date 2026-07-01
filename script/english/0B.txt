@@ -1,0 +1,22 @@
+{Speed: 0}Dandy: "{Speed: 2}I like your style,
+ Mako.{Speed: 4}{Speed: 2} How about you and I
+ have a match sometime?{Speed: 4}{Speed: 2}
+ We can settle the score at
+ the Tomamu Resort Open up
+ in Hokkaido."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Until we meet again,
+ Mako.{Speed: 3}{Speed: 2} Adieu, mademoiselle!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}Yeesh...
+{Speed: 2}{Speed: 2} What a snob!{Speed: 4}{Speed: 2}
+ I can't stand guys like
+ him!"{Speed: 4}{Speed: 2}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}You with me, Mako?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}... ... ..."{Speed: 12}
+
+{Speed: 0}Makino: "{Speed: 1}... ... ...{Speed: 10}{Speed: 2}Mako{Speed: 10}{Speed: 2}..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

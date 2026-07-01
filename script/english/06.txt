@@ -1,0 +1,9 @@
+{Speed: 0}Wilder: "{Speed: 2}Better take it
+ easy. You know your
+ sister's on the line
+ here."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Mako!
+ Keep it up!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

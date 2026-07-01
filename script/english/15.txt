@@ -1,0 +1,23 @@
+{Speed: 0}Bravo: "{Speed: 1}Ya-hoo!{Speed: 3}{Speed: 2}
+ You're pretty good, Mako!{Speed: 4}{Speed: 2}
+ I've got nothing to be
+ ashamed of losing to you.{Speed: 4}{Speed: 2}
+ It was a good time. Thanks!
+{Speed: 4}{Speed: 2}{Speed: 1} Ya-hoo!"{Speed: 15}{Clear}
+
+{Speed: 6}{Next Scene}{Speed: 0}Milk: "{Speed: 2}You must be Mako.{Speed: 4}{Speed: 2}
+ The name's Milk."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}You and I are playing
+ each other in the finals.{Speed: 4}{Speed: 2}
+ If I win,{Speed: 8}{Speed: 2} then you'll keep
+ your mitts off of Dandy.{Speed: 12}{Speed: 2}
+ Deal?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Dandy belongs to ME,{Speed: 3}{Speed: 2}
+ and no one else!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Hope you're ready
+ to lose!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

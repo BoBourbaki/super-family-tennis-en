@@ -1,0 +1,15 @@
+{Speed: 0}Sapphirine: "{Speed: 2}Good game,
+ Mako. You beat me fair and
+ square.{Speed: 4}{Speed: 2}
+ I'll practice up so we can
+ play again!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}All right!{Speed: 6}{Speed: 2}
+ I'll be looking forward
+ to it."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Sapphirine: "{Speed: 2}Just don't
+ think I'll be losing next
+ time.{Speed: 4}{Speed: 2}{Speed: 5}{Speed: 1} See ya!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

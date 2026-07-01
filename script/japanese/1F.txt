@@ -1,0 +1,6 @@
+{Speed: 0}レッドエース「{Speed: 2}勝負は3セット
+マッチだ!{Speed: 3}{Speed: 2}気を抜くなよ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}………!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

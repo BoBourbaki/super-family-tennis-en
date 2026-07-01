@@ -1,0 +1,67 @@
+{Clear}
+
+{Speed: 15}{Speed: 15} {Clear}
+
+{Speed: 0}  MAIN GAME
+   PROGRAM{Speed: 8}
+{Speed: 2}    NAKA-P{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} THEATER DISP.
+  SCREENPLAY{Speed: 8}
+{Speed: 2} S・SAKURAZAKI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} THEATER DISP.
+   PROGRAM{Speed: 8}
+{Speed: 2}    NAKA-P
+  MAYU CHAN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}GRAPHIC DESIGN{Speed: 8}
+{Speed: 2}   CRYSTAL-K
+   WAGACHAN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}      &
+    {Speed: 2}KAGURA
+     NOVE
+    KUNIMI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} SOUND DESIGN{Speed: 8}
+
+{Speed: 2}   KAWAGEN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Clear}
+
+{Speed: 0} DIRECTED BY{Speed: 8}
+
+{Speed: 2} S・SAKURAZAKI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Clear}
+
+{Speed: 2}AUDIO & VISUAL
+   NAMCO,LTD
+  ALL RIGHTS
+   RESERVED{Speed: 15}{Speed: 15}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Clear}
+
+{Speed: 15}{Speed: 8}{Speed: 0}マコ「{Speed: 2}すごい! {Speed: 8}{Speed: 2}星がこんなに
+いっぱい…………{Speed: 15}{Speed: 2}わたし今まで
+こうして星をながめたこと、{Speed: 3}
+なかった……」{Speed: 15}{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 15}{Speed: 8}{Speed: 0}マコ「{Speed: 2}星はいつも光ってたのに
+気づかなかった……」{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}マコ「{Speed: 2}でも、わたし{Speed: 3}{Speed: 2}…{Speed: 10}{Speed: 2}やっと
+わかったわ{Speed: 4}{Speed: 2}……{Speed: 8}{Speed: 2}わたしのことを
+まもっていてくれる星がすぐ
+そばで光ってるって{Speed: 4}{Speed: 2}………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}えっ!?」{Speed: 15}{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}……{Speed: 8}{Speed: 2}わたし{Speed: 10}{Speed: 2}……」{Speed: 15}{Speed: 10}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}…{Speed: 6}{Speed: 2}マコ{Speed: 6}{Speed: 2}……」{Speed: 15}{Speed: 8}{Clear}
+
+{Speed: 0}マコ「{Next Scene}{Speed: 1}あっ!{Speed: 3}{Next Scene} {Speed: 3}{Speed: 2}南十字星!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

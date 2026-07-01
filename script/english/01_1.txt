@@ -1,0 +1,8 @@
+{Speed: 0}      Congratulations!{Speed: 6}
+{Speed: 2}You won the Wafer Open with
+ease! Your next destination
+is the Toastralia Open!{Speed: 15}{Speed: 2}{Clear}
+
+{Speed: 1}Shoot for the Grand Slam!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

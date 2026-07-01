@@ -1,0 +1,155 @@
+This file contains every piece of text in the game not covered by the cutscene text extraction.
+Most of these are embedded in graphics.
+
+Game Title
+スーパーファミリーテニス
+
+Password prompt
+A, B, X, Y ボタンで入力してください
+
+Title screen subtitle after entering Namcot Theater code
+栄光の南十字星
+
+Prompt for choosing combination of human and computer players
+どの組み合わせに
+しますか?
+
+Prompt for selecting a character
+選手を決めて下さい
+
+Character names (Note: names with asterisk appear in World Court, another Tennis game by Namco)
+レッドエース
+エドマエ*
+サプライズ
+ブンブン*
+ピロシキノフ
+スチャラカ
+アンクルサム
+ダンディ
+ブラボー
+カツロウ
+ウメジー
+ワイルドル
+ミルク
+ステッピィ*
+ビューティ
+チナチロパ*
+サファリン
+マコ
+キャビアーノ
+サキ
+
+Prompt for selecting court
+コートを
+決めて下さい
+
+Court names
+北海道トマムリゾート
+軽井沢テニスロッジ
+京都ナムコ神社コート
+沖縄ムーンビーチ
+ヘブンズタワー絶壁コート
+ナムコグラスコート
+ナムコハードコート
+ナムコクレイコート
+リゾートツアー 五連戦
+
+Prompt for selecting number of sets
+セット数を
+決めて下さい
+
+Warning for plugging Super Multitap into controller port 1
+マルチタップは
+コントローラコネクタ2にのみ
+接続してください。
+注意
+|コントローラコネクタ1には、
+|絶対に接続しないでください。
+また、マルチタップにはコント
+ローラ以外は接続しないでくだ
+さい。
+
+First tourament name
+ナムコット オープン
+
+Second tourament name
+ウェハース オープン
+
+Third tourament name
+トーストラリアオープン
+
+Fourth tourament name
+オレンジ オープン
+
+Fifth tourament name
+ウィンナー オープン
+
+Court location labels from the debug mode's "Court Check"
+MIZU TAMARI
+MIENAKUNARU
+MIZU SHIBUKI 
+HITO DAKE KABE
+
+Secret characters (These appear to be references to other Namco games.)
+モモ
+ピノ
+カイ
+シマシマ (しましま in the debug menu)
+
+Namcot Theater: Chapter 1 sign
+軽井沢テニスロッジ
+オープン
+マコVS ビューティ
+1セットマッチ
+
+Namcot Theater: Chapter 2 sign
+軽井沢テニスロッジ
+オープン
+マコVS ワイルドル
+1セットマッチ
+
+Namcot Theater: Chapter 3 sign
+北海道トマムリゾート
+オープン
+マコ VS サファリン
+1セットマッチ
+
+Namcot Theater: Chapter 4 sign
+北海道トマムリゾート
+オープン
+マコ VS ダンディ
+1セットマッチ
+
+Namcot Theater: Chapter 5 sign
+沖縄ムーンビーチ
+オープン
+マコVS ブラボー
+1セットマッチ
+
+Namcot Theater: Chapter 6 sign
+沖縄ムーンビーチ
+オープン
+マコVS ミルク
+3セットマッチ
+
+Namcot Theater: Chapter 7 sign 1
+ダンディのプレイヤーを
+決めてください。
+
+Namcot Theater: Chapter 7 sign 2
+京都ナムコ神社
+
+マコ
+ダンディ
+
+VS 
+
+キャビアーノ
+ピロシキノフ
+
+3セットマッチ
+
+Namcot Theater: Chapter 8 sign
+ヘブンズタワー絶壁コート
+マコ VS レッドエース
+3セットマッチ

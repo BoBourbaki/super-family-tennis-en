@@ -1,0 +1,23 @@
+{Speed: 0}ビューティ「{Speed: 2}負けたわ…{Speed: 8}{Speed: 2}わたし
+の分もがんばって、きっと優勝
+してね」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}ビューティ{Speed: 3}………」{Speed: 15}{Clear}
+
+{Speed: 8}{Next Scene}{Speed: 0}ビューティ「だいじょうぶ?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}ボールに手紙がはさん
+であるわ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 3}『おまえの妹はあずかって
+{Speed: 0} {Speed: 3}いる。かえしてほしければ
+{Speed: 0} {Speed: 3}つぎの決勝戦でオレに
+{Speed: 0} {Speed: 3}負けるんだ! ワイルドル』{Speed: 15}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}だいじょうぶか?」
+{Speed: 0}マコ「{Speed: 2}だ……{Speed: 6}{Speed: 2}だいじょうぶ……{Speed: 6}
+{Speed: 2}なんでもないの………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}……………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

@@ -1,0 +1,31 @@
+{Speed: 0}ワイルドル「{Speed: 2}きさま!{Speed: 3}{Speed: 2}よくも!{Speed: 6}{Speed: 2}
+妹がどうなるか、わかってるだ
+ろうな!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}……………」{Speed: 8}
+{Speed: 0}
+{Speed: 0}
+{Speed: 0}      {Prompt}
+
+{Speed: 0}*「{Speed: 1}マコくん!
+  {Speed: 2}安心したま{Speed: 1}えぇ~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 1}あっ!{Speed: 6}{Speed: 2}きさまは…
+ ダンディ!!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}きみの妹さんは
+このわたしがたすけだしたぞ」{Speed: 3}{Clear}
+
+{Speed: 0}サキ「{Speed: 1}おねえちゃ~ん!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}サキ!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 2}あっ!{Speed: 3}{Speed: 2}ダンディ!{Speed: 4}{Speed: 2}
+きさま うらぎりやがったな」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}わたしは きみの
+ような ゲレツで ヤバンで
+キタナイやり方は好まんのだよ{Speed: 6}
+{Speed: 2}ワイルドルくん」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

@@ -1,0 +1,9 @@
+{Speed: 0}Wilder: "{Speed: 2}Atta girl!{Speed: 4}{Speed: 2}
+ Keep up the losin' and your
+ sister's all yours!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Mako, what's the
+ matter?{Speed: 4}{Speed: 2} You're not playing
+ like yourself today."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

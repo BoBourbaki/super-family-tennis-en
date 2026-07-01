@@ -1,0 +1,6 @@
+{Speed: 0}ミルク「{Speed: 2}ほーほほほ。{Speed: 4}{Speed: 2}あんた、
+あまちゃんね!{Speed: 3}{Speed: 2}これでダンディ
+は あたしのものよ。{Speed: 4}{Speed: 2}とっとと
+きえてちょうだい!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

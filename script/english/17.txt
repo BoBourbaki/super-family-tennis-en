@@ -1,0 +1,15 @@
+{Speed: 0}Makino: "{Speed: 2}Here it is.
+ The finals.{Speed: 4}{Speed: 2} It's a 3-set
+ match.{Speed: 4}{Speed: 2} Don't lose your
+ nerve in the homestretch.
+ You're up against Milk.
+ That sweet face of hers
+ belies her ferocious
+ backhand."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Just watch out.
+ They say she digs deep and
+ starts playing even harder
+ once you get her mad!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

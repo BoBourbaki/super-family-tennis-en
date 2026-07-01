@@ -1,0 +1,28 @@
+{Speed: 0}Beauty: "{Speed: 2}I lost...{Speed: 8}{Speed: 2}
+ You'd better play good
+ enough for the both of us
+ then. Get out there and win
+ this thing."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Beauty{Speed: 3}..."{Speed: 15}{Clear}
+
+{Speed: 8}{Next Scene}{Speed: 0}Beauty: "You all right?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}Yeah.
+ There's a letter attached
+ to the ball."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 3}>I've got your sister.
+{Speed: 0} {Speed: 3}If you ever want to see her
+{Speed: 0} {Speed: 3}again, you'll throw the
+{Speed: 0} {Speed: 3}finals and let ME win!
+{Speed: 0}                   {Speed: 3}-Wilder{Speed: 15}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}Everything OK over
+ here?"
+{Speed: 0}Mako: "{Speed: 2}Y-...{Speed: 6}{Speed: 2}Yeah...{Speed: 6}
+{Speed: 2} Everything's fine..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}... ... ..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

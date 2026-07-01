@@ -1,0 +1,13 @@
+{Speed: 0} おめでとうございます!{Speed: 6}
+{Speed: 2}ナムコットオープンにみごと
+優勝したあなたには世界への
+キップがあたえられます!{Speed: 15}{Clear}
+
+{Speed: 2}四つの大会を勝ちぬいて
+グランドスラムをめざそう!{Speed: 15}
+{Clear}
+
+
+{Speed: 0}   夢は世界へ!{Speed: 15}{Speed: 4}{Clear}
+
+{Next Scene}

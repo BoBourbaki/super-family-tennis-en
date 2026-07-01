@@ -1,0 +1,6 @@
+{Speed: 0}ワイルドル「{Speed: 2}妹がどうなっても
+いいんだな?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}その調子だぞ、マコ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

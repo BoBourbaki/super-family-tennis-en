@@ -1,0 +1,13 @@
+{Speed: 0}      Congratulations!{Speed: 6}
+{Speed: 2}You won the Namcot Open!
+Here's your ticket to the
+world!{Speed: 15}{Clear}
+
+{Speed: 2}Win the four tournaments and
+make it to the Grand Slam!{Speed: 15}
+{Clear}
+
+{Speed: 0}Get out there and chase your
+dream!{Speed: 15}{Speed: 4}{Clear}
+
+{Next Scene}

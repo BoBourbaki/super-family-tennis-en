@@ -1,0 +1,9 @@
+{Speed: 0}Wilder: "{Speed: 1}Dandy!!!{Speed: 3}{Speed: 1}
+ You'll pay for crossing
+ me!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "Eat THIS!!!"{Speed: 6}{Clear}
+
+{Next Scene}{Speed: 0}Wilder: "{Speed: 1}Aaa{Speed: 1}aaaa{Speed: 1}aagh!!!"{Speed: 15}{Speed: 15}{Clear}
+
+{Next Scene}

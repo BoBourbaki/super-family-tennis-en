@@ -1,0 +1,254 @@
+This file contains every piece of text in the game not covered by the cutscene text extraction.
+Most of these are embedded in graphics.
+
+Game Title
+スーパーファミリーテニス
+Super Family Tennis
+
+Password prompt
+A, B, X, Y ボタンで入力してください
+Enter using A, B, X, and Y.
+
+Title screen subtitle after entering Namcot Theater code
+栄光の南十字星
+Glory of the Southern Cross
+OR
+Crux of Glory (sounds much cooler)
+
+Prompt for choosing combination of human and computer players
+どの組み合わせに
+しますか?
+Go with this
+team?
+
+Prompt for selecting a character
+選手を決めて下さい
+Select a character.
+
+Character names (Note: names with asterisk appear in World Court, another Tennis game by Namco)
+レッドエース
+Red Ace
+エドマエ*
+Edomae
+サプライズ
+Surprise
+ブンブン*
+Bunbun
+ピロシキノフ
+Piroshkinov
+スチャラカ
+Shalaka
+アンクルサム
+Uncle Sam
+ダンディ
+Dandy
+ブラボー
+Bravo
+カツロウ
+Katsuro
+ウメジー
+Umeji
+ワイルドル
+Wilder
+ミルク
+Milk
+ステッピィ*
+Steppy
+ビューティ
+Beauty
+チナチロパ*
+Chinachiropa
+サファリン
+Sapphirine
+マコ
+Mako
+キャビアーノ
+Caviano
+サキ
+Saki
+
+Prompt for selecting court
+コートを
+決めて下さい
+Select a
+court.
+
+Court names
+北海道トマムリゾート
+Hokkaido Tomamu Resort
+軽井沢テニスロッジ
+Karuizawa Tennis Lodge
+京都ナムコ神社コート
+Kyoto Namco Shrine Court
+沖縄ムーンビーチ
+Okinawa Moon Beach
+ヘブンズタワー絶壁コート
+Heaven's Tower Cliff Court
+ナムコグラスコート
+Namco Grass Court
+ナムコハードコート
+Namco Hard Court
+ナムコクレイコート
+Namco Clay Court
+リゾートツアー 五連戦
+Resort Tour 5-Match
+
+Prompt for selecting number of sets
+セット数を
+決めて下さい
+Select number
+of sets to play.
+
+Warning for plugging Super Multitap into controller port 1
+マルチタップは
+コントローラコネクタ2にのみ
+接続してください。
+注意
+|コントローラコネクタ1には、
+|絶対に接続しないでください。
+また、マルチタップにはコント
+ローラ以外は接続しないでくだ
+さい。
+Please plug the
+Super Multitap into
+Controller Port 2 only.
+WARNING
+Do not connect it to
+Controller Port 1.
+Connect only controllers to
+the Super Multitap.
+
+First tourament name
+ナムコット オープン
+Namcot Open
+
+Second tourament name
+ウェハース オープン
+Wafer Open
+
+Third tourament name
+トーストラリアオープン
+Toastralia Open
+
+Fourth tourament name
+オレンジ オープン
+Orange Open
+
+Fifth tourament name
+ウィンナー オープン
+Winner's Open
+
+Court location labels from the debug mode's "Court Check"
+MIZU TAMARI
+MIENAKUNARU
+MIZU SHIBUKI 
+HITO DAKE KABE
+
+Secret characters (These appear to be references to other Namco games.)
+モモ
+Momo
+ピノ
+Pino
+カイ
+Kai
+シマシマ (しましま in the debug menu)
+Shimashima
+
+Namcot Theater: Chapter 1 sign
+軽井沢テニスロッジ
+オープン
+マコVS ビューティ
+1セットマッチ
+Karuizawa Tennis Lodge
+Open
+Mako VS Beauty
+1-Set Match
+
+Namcot Theater: Chapter 2 sign
+軽井沢テニスロッジ
+オープン
+マコVS ワイルドル
+1セットマッチ
+Karuizawa Tennis Lodge
+Open
+Mako VS Wilder
+1-Set Match
+
+Namcot Theater: Chapter 3 sign
+北海道トマムリゾート
+オープン
+マコ VS サファリン
+1セットマッチ
+Hokkaido Tomamu Resort
+Open
+Mako VS Sapphirine
+1-Set Match
+
+Namcot Theater: Chapter 4 sign
+北海道トマムリゾート
+オープン
+マコ VS ダンディ
+1セットマッチ
+Hokkaido Tomamu Resort
+Open
+Mako VS Dandy
+1-Set Match
+
+Namcot Theater: Chapter 5 sign
+沖縄ムーンビーチ
+オープン
+マコVS ブラボー
+1セットマッチ
+Okinawa Moon Beach
+Open
+Mako VS Bravo
+1-Set Match
+
+Namcot Theater: Chapter 6 sign
+沖縄ムーンビーチ
+オープン
+マコVS ミルク
+3セットマッチ
+Okinawa Moon Beach
+Open
+Mako VS Milk
+3-Set Match
+
+Namcot Theater: Chapter 7 sign 1
+ダンディのプレイヤーを
+決めてください。
+Choose who will
+play as Dandy.
+
+Namcot Theater: Chapter 7 sign 2
+京都ナムコ神社
+Kyoto Namco Shrine
+
+マコ
+ダンディ
+
+VS 
+
+キャビアーノ
+ピロシキノフ
+
+3セットマッチ
+
+Mako
+Dandy
+
+VS
+
+Caviano
+Piroshkinov
+
+3-Set Match
+
+Namcot Theater: Chapter 8 sign
+ヘブンズタワー絶壁コート
+マコ VS レッドエース
+3セットマッチ
+Heaven's Tower Cliff
+Court
+Mako VS Red Ace
+3-Set Match

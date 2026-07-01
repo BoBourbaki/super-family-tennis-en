@@ -1,0 +1,9 @@
+{Speed: 0}      Congratulations!{Speed: 8}
+{Speed: 2}You took the Toastralia Open
+without breaking a sweat!
+Go to the Orange Open!{Speed: 15}{Speed: 2}{Clear}
+
+
+{Speed: 1}The Grand Slam's the dream!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

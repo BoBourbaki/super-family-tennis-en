@@ -1,0 +1,5 @@
+{Speed: 0}Dandy: "{Speed: 2}That really the
+ best you can do, Mako?{Speed: 4}{Speed: 2}
+ Talk about a letdown."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

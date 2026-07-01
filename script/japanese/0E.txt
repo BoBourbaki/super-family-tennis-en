@@ -1,0 +1,10 @@
+{Speed: 0}サファリン「{Speed: 2}さすがだぜ、マコ
+完全にあたいの負けさ。{Speed: 4}{Speed: 2} また
+特訓をつんで挑戦するぜ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}ええ、{Speed: 6}{Speed: 2}まってるわ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}サファリン「{Speed: 2}そんときゃぜった
+い負けねぇかんな。{Speed: 4}{Speed: 2}{Speed: 5}{Speed: 1}じゃあな」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

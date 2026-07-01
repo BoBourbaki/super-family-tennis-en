@@ -1,0 +1,19 @@
+{Speed: 0}牧野「{Speed: 2}今日戦う最初の相手は、
+バックハンドで、強烈なトップ
+スピンを得意とするサファリン
+だ。{Speed: 4}{Speed: 2}なんとかつないでチャンス
+をみつけたらすかさず前へでる
+んだぞ」{Speed: 10}{Clear}
+
+{Speed: 0}*「{Speed: 2}そう かんたんには いか
+ねぇーんだな、これが…」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}サファリン!」{Speed: 10}{Clear}
+
+{Speed: 0}サファリン「{Speed: 1}マコ!{Speed: 5}{Speed: 2}おまえを
+たおすために、あたいは今日
+まで特訓をつんできたんだ。{Speed: 4}{Speed: 2}
+この勝負、ぜったいに負けねぇ
+からな!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

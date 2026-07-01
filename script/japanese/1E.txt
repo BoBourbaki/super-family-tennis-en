@@ -1,0 +1,26 @@
+{Speed: 2}『そんなこんなで わたしは
+ ようやく休みをもらい…{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 2}南の島でのんびりとバカンス
+を楽しんでいました。』{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}あぁ、いいきもち……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}*「{Speed: 2}おまえがマコか?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}え…{Speed: 12}{Speed: 2}ええ……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}*「{Speed: 2}おれは究極のテニスプレイ
+ヤー、レッドエースだ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}えっ!{Speed: 3}{Speed: 2}あの世界中のテニ
+スプレイヤーに挑戦し、ことご
+とく たおしたという 真の
+トッププレイヤーの?!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}レッドエース「{Speed: 2}おまえに挑戦
+する!{Speed: 8}{Speed: 2}今日の午後三時、島の
+中心にあるヘブンズタワーに
+のぼってこい!{Speed: 8}{Speed: 2}いいな!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

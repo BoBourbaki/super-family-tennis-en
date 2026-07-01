@@ -1,0 +1,5 @@
+{Speed: 0}ダンディ「{Speed: 2}ついにきましたね。{Speed: 4}{Speed: 2}
+マコくん、手かげんはしないか
+ら かくごしてくれたまえ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

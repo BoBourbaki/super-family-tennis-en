@@ -1,0 +1,21 @@
+{Speed: 0}Makino: "{Speed: 2}Mako, this is it.{Speed: 4}{Speed: 2}
+ The Okinawa Moon Beach Open
+ is the final tournament.
+ Let's see your best!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}OK!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Your first opponent
+ is Bravo. His forehand's
+ weak, but those backhand
+ shots of his are vicious.{Speed: 4}{Speed: 2}
+ Careful not to let him get
+ you with them."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Bravo: "{Speed: 1}Ya-hoo!{Speed: 3}{Speed: 2}
+ So you're Mako?
+ The girl who whooped Dandy?{Speed: 12}{Speed: 2}
+ I'm nothing like THAT
+ smarmy guy.{Speed: 4}{Speed: 2}{Speed: 1} Ya-hoo!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

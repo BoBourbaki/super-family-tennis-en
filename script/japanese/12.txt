@@ -1,0 +1,8 @@
+{Speed: 0}牧野「{Speed: 1}かあぁぁぁ、{Speed: 2}ムカつく
+やつだな!{Speed: 6}{Speed: 1}マコ、あんなやつ
+ほっとけよ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}あれっ、{Speed: 8}{Speed: 2}マコ?{Speed: 4}{Speed: 2}
+おい、マ{Speed: 1}コ~~~~」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

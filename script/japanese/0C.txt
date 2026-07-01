@@ -1,0 +1,5 @@
+{Speed: 0}ダンディ「{Speed: 2}あれが きみの真の
+実力だったとはね。{Speed: 4}{Speed: 2}みそこなっ
+たよ、マコくん」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

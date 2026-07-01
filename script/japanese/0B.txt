@@ -1,0 +1,20 @@
+{Speed: 0}ダンディ「{Speed: 2}マコくん、わたしは
+きみが気にいってしまったよ。{Speed: 4}{Speed: 2}
+ぜひ きみと勝負してみたい
+ものだね。{Speed: 4}{Speed: 2}北海道トマムで
+おこなわれるトマムリゾート
+オープンで決着をつけよう」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}それじゃ!{Speed: 3}{Speed: 2}マコくん
+アディユー マドモアゼル!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}かぁ~~~、{Speed: 2}{Speed: 2}なんなんだ
+あのキザなヤローは!{Speed: 4}{Speed: 2}
+好かんなー、まったく。」{Speed: 4}{Speed: 2}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}なぁ、マコ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}……………」{Speed: 12}
+{Speed: 0}牧野「{Speed: 1}………{Speed: 10}{Speed: 2}マコ{Speed: 10}{Speed: 2}………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

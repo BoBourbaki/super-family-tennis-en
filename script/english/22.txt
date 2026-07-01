@@ -1,0 +1,71 @@
+{Clear}
+
+{Speed: 15}{Speed: 15} {Clear}
+
+{Speed: 0}  MAIN GAME
+   PROGRAM{Speed: 8}
+{Speed: 2}    NAKA-P{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} THEATER DISP.
+  SCREENPLAY{Speed: 8}
+{Speed: 2} S●SAKURAZAKI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} THEATER DISP.
+   PROGRAM{Speed: 8}
+{Speed: 2}    NAKA-P
+  MAYU CHAN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}GRAPHIC DESIGN{Speed: 8}
+{Speed: 2}   CRYSTAL-K
+   WAGACHAN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}      &
+    {Speed: 2}KAGURA
+     NOVE
+    KUNIMI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} SOUND DESIGN{Speed: 8}
+
+{Speed: 2}   KAWAGEN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Clear}
+
+{Speed: 0} DIRECTED BY{Speed: 8}
+
+{Speed: 2} S●SAKURAZAKI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Clear}
+
+{Speed: 2}AUDIO & VISUAL
+   NAMCO,LTD
+  ALL RIGHTS
+   RESERVED{Speed: 15}{Speed: 15}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Clear}
+
+{Speed: 15}{Speed: 8}{Speed: 0}Mako: "{Speed: 2}Incredible!{Speed: 8}{Speed: 2}
+ There's so many stars out
+ tonight...{Speed: 15}{Speed: 2} I've never
+ looked out upon them{Speed: 3} like
+ this before..."{Speed: 15}{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 15}{Speed: 8}{Speed: 0}Mako: "{Speed: 2}They're always up
+ there shining bright, yet
+ somehow I never noticed
+ them..."{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}Mako: "{Speed: 2}But now,{Speed: 3}{Speed: 2} I know...{Speed: 4}{Speed: 2}
+{Speed: 8}{Speed: 2} I've always had my shining
+ star right here watching
+ over me{Speed: 4}{Speed: 2}..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}Huh!?"{Speed: 15}{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}... ... ...{Speed: 8}{Speed: 2}I{Speed: 10}{Speed: 2}..."{Speed: 15}{Speed: 10}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}... ... ...{Speed: 6}{Speed: 2}Mako{Speed: 6}{Speed: 2}..."{Speed: 15}{Speed: 8}{Clear}
+
+{Speed: 0}Mako: "{Next Scene}{Speed: 1}Oh, look!{Speed: 3}{Next Scene}
+{Speed: 3}{Speed: 2} It's the Southern Cross!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

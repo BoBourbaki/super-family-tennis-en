@@ -1,0 +1,8 @@
+{Speed: 0}ワイルドル「{Speed: 2}よしよし。{Speed: 4}{Speed: 2}その
+調子で負ければ妹はぶじ返して
+やるゾ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}マコ、どうしたんだ?{Speed: 4}{Speed: 2}
+いつものマコらしくないぞ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

@@ -1,0 +1,11 @@
+{Speed: 0}Dandy: "{Speed: 2}Mako!{Speed: 3}{Speed: 2}
+ Let me know your answer
+ once the match is over!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Agh{Speed: 1}!!!"{Speed: 15}{Clear}
+
+{Speed: 1}>Milk is even angrier than
+ before, brimming with even
+ greater power!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

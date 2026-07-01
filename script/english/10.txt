@@ -1,0 +1,6 @@
+{Speed: 0}Dandy: "{Speed: 2}Glad to see you made
+ it, Mako.{Speed: 4}{Speed: 2} But you'd better
+ brace yourself. I won't be
+ going easy on you!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

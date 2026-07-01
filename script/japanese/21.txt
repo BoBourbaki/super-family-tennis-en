@@ -1,0 +1,18 @@
+{Speed: 0}レッドエース「{Speed: 2}負けたよ、マコ{Speed: 10}
+{Speed: 2}究極のテニスプレイヤーとは
+まさにきみのことだ。{Speed: 4}{Speed: 2}
+おめでとう!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}……{Speed: 6}{Speed: 2}コーチ…{Speed: 6}{Speed: 2}牧野コーチ
+でしょ?!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}やっぱり気づいてたか」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}マコ、きみはりっぱに
+ぼくをのりこえた。{Speed: 4}{Speed: 2}{Speed: 12}{Speed: 2}いまこそ
+きみは究極のテニスプレイヤー
+だよ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}……{Speed: 6}{Speed: 2}牧野コーチ……」{Speed: 15}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

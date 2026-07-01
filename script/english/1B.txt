@@ -1,0 +1,6 @@
+{Speed: 0}Milk: "{Speed: 2}Hee-hee-hee!{Speed: 4}{Speed: 2}
+ What a pushover!{Speed: 3}{Speed: 2}
+ Now, Dandy is all mine.{Speed: 4}{Speed: 2}
+ Out of my sight!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

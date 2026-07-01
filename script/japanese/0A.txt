@@ -1,0 +1,8 @@
+{Speed: 0}ワイルドル「{Speed: 1}おのれぇ~~~!{Speed: 3}{Speed: 1}
+ダンディ~~~~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「フンッ!!!」{Speed: 6}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 1}あ~~{Speed: 1}{Speed: 1}れ~~!」{Speed: 15}{Speed: 15}{Clear}
+
+{Next Scene}

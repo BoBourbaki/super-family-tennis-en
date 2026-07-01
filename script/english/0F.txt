@@ -1,0 +1,8 @@
+{Speed: 0}Sapphirine: "{Speed: 2}So much for the
+ 'ultimate tennis player.'
+ I was silly to train so
+ hard for this.{Speed: 4}{Speed: 2}
+ Looks like YOU'RE the one
+ who needs to practice up."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

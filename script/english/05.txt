@@ -1,0 +1,29 @@
+{Speed: 0}Wilder: "{Speed: 2}Yo, Mako.
+ Not lookin' so hot, are ya.{Speed: 4}{Speed: 2}
+ You gonna make it?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Wilder: "{Speed: 1}Ha-ha-ha-ha-ha-ha."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}... ... ..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Wilder: "{Speed: 2}Better go nice and
+ easy on me,{Speed: 4} Mako."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Wilder: "{Speed: 1}Ha-ha-ha-ha-ha-ha."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Wilder's one tough
+ customer,{Speed: 4}{Speed: 2}{Speed: 6}{Speed: 2} but he's not the
+ quickest.{Speed: 4}{Speed: 2}{Speed: 6}{Speed: 2}
+ You've got this if you can
+ just hang in there and find
+ a way to turn that against
+ him{Speed: 2}...{Speed: 10}{Speed: 2} Sound like a plan?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}... ... ...{Speed: 10}{Speed: 2}Coach{Speed: 10}{Speed: 2}..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}What's up?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}It's...{Speed: 10}{Speed: 2} nothing...{Speed: 10}{Speed: 2}
+ Forget it."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

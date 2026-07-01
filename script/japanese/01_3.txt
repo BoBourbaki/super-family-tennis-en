@@ -1,0 +1,11 @@
+{Speed: 0}優勝おめでとうございます!{Speed: 8}
+{Speed: 2}ついにグランドスラムまで
+あと一歩!{Speed: 14}{Clear}
+
+{Speed: 2}つぎのウインナーオープンも
+優勝して栄光をつかもう!{Speed: 14}{Clear}
+
+
+{Speed: 0}グランドスラムも夢じゃない!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

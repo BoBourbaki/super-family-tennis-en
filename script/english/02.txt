@@ -1,0 +1,30 @@
+{Speed: 0}Makino: "{Speed: 2}How're you feeling,
+ Mako?{Speed: 4}{Speed: 2} The semifinals and
+ finals are all that's left
+ in the Karuizawa Tennis
+ Lodge Open.{Speed: 4}{Speed: 2}
+ Just keep a cool head and
+ play like you always do,{Speed: 4}{Speed: 2}
+ and the semifinals are as
+ good as yours!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Will do, Coach!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}You're up against
+ Beauty.{Speed: 4}{Speed: 2} This is your first
+ step on your journey to
+ becoming the ultimate
+ tennis player.{Speed: 4}{Speed: 2}
+ Keep it together!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}All right!"{Speed: 8}
+{Speed: 0}
+{Speed: 0}
+{Speed: 0}      {Prompt}
+
+{Speed: 0}*: "{Speed: 2}Mako!"{Speed: 15}{Music: 2}{Clear}
+
+{Next Scene}{Speed: 0}Beauty: "{Speed: 2}I'll {Speed: 4}{Speed: 2}never lose
+ to you!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

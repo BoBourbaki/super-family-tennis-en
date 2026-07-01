@@ -1,0 +1,49 @@
+{Speed: 0}マコ「{Speed: 2}ふぁ~い。{Speed: 4}{Speed: 2}…………
+マコはわたしですけどぉ……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}えっ!{Speed: 8}{Speed: 1}どういうこと?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}だからミルクが
+さらわれたんだ。{Speed: 4}{Speed: 2}うちに脅迫状
+がとどいたんだよ。{Speed: 4}{Speed: 2}返してほし
+ければ……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 2}『あす、午前三時に
+   ナムコ神社にこい!』{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}ダンディ{Speed: 1}~~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}だいじょうぶか?!{Speed: 3}{Speed: 2}
+ミルク{Speed: 1}ちゃ~~~ん!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}このふたりは、ロシア
+からきたテニスプレイヤーで、
+ピロシキノフとキャビアーノと
+いうダブルス兄妹なの。{Speed: 8}{Speed: 0}
+       {Prompt}
+
+{Speed: 2}兄のピロシキノフがわたしに
+ひとめぼれしてシベリアでいっ
+しょにくらそうっていうのよ。{Speed: 8}{Speed: 0}
+       {Prompt}
+
+{Speed: 2}でもわたし、好きなひとが
+いるっていったら、そいつと
+戦ってたおすって………」{Speed: 6}{Speed: 0}
+       {Prompt}
+
+{Speed: 0}ピロシキノフ「{Speed: 2}ミルクはパン
+より大切ネ。{Speed: 4}{Speed: 2}きなさーい。
+{Speed: 4}{Speed: 2}ダンディさぁ~ん」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}マコくん、わたしに
+協力してくれるかい?{Speed: 8}{Speed: 2}いっしょ
+にダブルスをくんでほしいんだ
+よ。{Speed: 12}{Speed: 2}どうだい?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}わかったわ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}よーし!{Speed: 8}{Speed: 2}いまたすけ
+にいくぞ!{Speed: 3}{Speed: 2}ミルクちゃ~ん!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

@@ -1,0 +1,32 @@
+{Speed: 2}>Then, at long last...{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 2} I finally got to have
+ myself a nice, relaxing
+ tropical vacation.{Speed: 15}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Whew...
+ This is just peachy..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}*: "{Speed: 2}Are you Mako?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Uh...{Speed: 12}{Speed: 2} Yeah...?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}*: "I'm Red Ace.{Speed: 2}
+ The ultimate tennis
+ player."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}Huh!?{Speed: 3}{Speed: 2}
+ You mean... You're THE top
+ tennis player!? The guy
+ who goes all around the
+ world beating everyone he
+ comes across!?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Red Ace: "{Speed: 2}That's me.
+ And I'm here to challenge
+ YOU next!{Speed: 8}{Speed: 2}
+ Meet me at Heaven's Tower
+ in the middle of the island
+ at 3 PM.{Speed: 8}{Speed: 2} Better be there!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

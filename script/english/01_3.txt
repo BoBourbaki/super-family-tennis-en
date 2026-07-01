@@ -1,0 +1,12 @@
+{Speed: 0}      Congratulations!{Speed: 8}
+{Speed: 2}Only one step stands between
+you and the Grand Slam now!{Speed: 14}{Clear}
+
+{Speed: 2}Emerge victorious in the
+Winner's Open and seize
+glory in your grasp!{Speed: 14}{Clear}
+
+{Speed: 0}The Grand Slam is well
+within reach!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

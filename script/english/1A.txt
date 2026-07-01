@@ -1,0 +1,34 @@
+{Speed: 0}Milk: "{Speed: 2}I lost.{Speed: 4}{Speed: 2}
+ Victory is yours, Mako.{Speed: 4}{Speed: 2}
+ And I'm done with Dandy.{Speed: 4}{Speed: 2}
+ He's all yours."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Huh?{Speed: 3}{Speed: 2}
+ You mean you'll LET me have
+ him!?{Speed: 3}{Speed: 2}{Speed: 1} REALLY?{Speed: 4}{Speed: 2}
+ Woo-hoo!{Speed: 5}{Speed: 2} Oh, happy day!{Speed: 8}{Speed: 2}
+ Dandy, my darling!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Huh!?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Hey!
+ Where're you going?{Speed: 1}
+ Oh, Dandy!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Dandy!"
+
+{Speed: 0}Dandy: "{Speed: 2}Mako!{Speed: 3}{Speed: 2} Help!
+{Speed: 1} Do something!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}You're all mine,
+ Dandy!"
+{Speed: 0}Dandy: "{Speed: 2}Mako!{Speed: 4}{Speed: 2}
+ MAKO!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Dandy!"{Speed: 1}
+
+{Speed: 0}Dandy: "{Speed: 2}MAKO!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Oh, jeez."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

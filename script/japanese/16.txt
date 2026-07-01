@@ -1,0 +1,7 @@
+{Speed: 0}ブラボー「{Speed: 1}ひゃっほぅ。{Speed: 4}{Speed: 2}ぼくと
+戦うには十年はやいね。{Speed: 4}{Speed: 2} また
+あいましょう。{Speed: 4}{Speed: 2}いつでもお相手
+しますよ。{Speed: 4}{Speed: 2}それでは、みなさん
+ごいっしょに…{Speed: 1}いやっほぅぅ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

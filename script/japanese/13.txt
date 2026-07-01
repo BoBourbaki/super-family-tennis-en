@@ -1,0 +1,9 @@
+{Speed: 0}ダンディ「{Speed: 2}マコくん、きみには
+おおいにガッカリさせられた。
+もっと強くなったら挑戦して
+きたまえ!」{Speed: 4}{Speed: 2}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}それじゃアディユー
+レ ミゼラブル、マコ!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

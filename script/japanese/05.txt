@@ -1,0 +1,27 @@
+{Speed: 0}ワイルドル「{Speed: 2}やぁ、マコちゃん
+うかない顔してるねぇ。{Speed: 4}{Speed: 2}気分で
+もわるいのかい?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 1}ヒャッヒャッ
+ヒャッヒャッヒャッヒャッ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}……………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 2}どうかお手やわら
+かにね、{Speed: 4}マコ{Speed: 1}ちゃん」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 1}ヒャッヒャッ
+ヒャッヒャッヒャッヒャッ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}ワイルドル。{Speed: 4}{Speed: 2}{Speed: 6}{Speed: 2}やつは、力
+は強いが足がおそいんだ。{Speed: 4}{Speed: 2}{Speed: 6}{Speed: 2}なん
+とかつないで逆をつけば勝てる
+{Speed: 2}………{Speed: 10}{Speed: 2}いいね」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}………{Speed: 10}{Speed: 2}コーチ{Speed: 10}{Speed: 2}…………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}ん?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}いえ……{Speed: 10}{Speed: 2}なんでも……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

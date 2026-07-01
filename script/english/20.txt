@@ -1,0 +1,6 @@
+{Speed: 0}Red Ace: "{Speed: 2}You've got a long
+ way to go.{Speed: 4}{Speed: 2} Come try again
+ once you've sharpened your
+ skills!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

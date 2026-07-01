@@ -1,0 +1,31 @@
+{Speed: 0}Dandy: "{Speed: 2}You're the first
+ person who's ever beaten
+ me, Mako.{Speed: 4}{Speed: 2}{Speed: 1}
+ I like strong players,{Speed: 3}{Speed: 2}
+ and I like you!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}I'd like for you to
+ be my fiance."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}Uh,{Speed: 3}{Speed: 2} WHAT!?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}Hey!
+ Step off, you jerk!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Don't tell me...
+ You're her loverboy?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Uh, no...{Speed: 8}{Speed: 2}
+ I'm just her coach..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Then this is none of
+ your concern, 'Coach.'{Speed: 4}{Speed: 2}
+ Think it over, Mako.
+ I'll be expecting an answer
+ when next we meet."{Speed: 4}{Speed: 2}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Farewell,
+ and adieu, Mako!{Speed: 4}{Speed: 1}
+ My sweet mademoiselle!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

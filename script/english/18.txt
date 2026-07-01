@@ -1,0 +1,10 @@
+{Speed: 0}Dandy: "{Speed: 2}Mako!{Speed: 2}
+ Keep it up!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 1}Ugh!{Speed: 3}{Speed: 2}
+ This SUCKS!"{Speed: 15}{Clear}
+
+{Speed: 1}>Milk is brimming with
+ power from her anger!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

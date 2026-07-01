@@ -1,0 +1,41 @@
+{Speed: 0}ダンディ「{Speed: 2}だいじょうぶか?{Speed: 4}{Speed: 2}
+ミルクちゃん!」
+{Speed: 0}ミルク「{Speed: 2}………{Speed: 10}{Speed: 2}ダンディ{Speed: 10}{Speed: 2}……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}うえーん。{Speed: 6}{Speed: 2}ごめんなさ
+い、ごめんなさい!」{Speed: 15}{Clear}
+
+{Speed: 0}ダンディ「{Speed: 2}どうしたんだ?{Speed: 4}{Speed: 2}
+なにをあやまってるんだ?」{Speed: 15}{Clear}
+
+{Speed: 0}ミルク「{Speed: 2}みんな わたしの
+しくんだことだったの~~。{Speed: 4}{Speed: 2}
+ピロシキノフとキャビアーノに
+たのんで しくんだことだった
+のよ{Speed: 1}~~~。{Speed: 4}{Speed: 2}うえーん」{Speed: 15}{Clear}
+
+{Speed: 0}ダンディ「{Speed: 1}なんだって?!{Speed: 3}{Speed: 1}
+どうして そんなことを……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}だってダンディったら
+マコさんに夢中で………
+わたしの方をふりむかせたくて
+……{Speed: 6}{Speed: 2}それで……{Speed: 6}{Speed: 2}それで……」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}うわーん。{Speed: 4}{Speed: 2}ごめんなさ
+い、ごめんなさい。{Speed: 4}{Speed: 2}うえーん」
+{Speed: 0}ダンディ「{Speed: 2}ミルク……{Speed: 6}{Speed: 2}そんなに
+わたしのことを………」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}ミルク!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}ダンディ♥」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}やれやれ。{Speed: 4}{Speed: 2}一件落着って
+とこね」
+{Speed: 0}ピロシキノフ「{Speed: 2}ほんとによかっ
+たでぇーす」
+{Speed: 0}キャビアーノ「{Speed: 2}みてると やけ
+ますでぇーす」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

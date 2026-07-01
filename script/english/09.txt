@@ -1,0 +1,33 @@
+{Speed: 0}Wilder: "{Speed: 2}You little...!{Speed: 6}{Speed: 2}
+ You'll throw the match if
+ you ever wanna see your
+ sister again!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}... ... ..."{Speed: 8}
+{Speed: 0}
+{Speed: 0}
+{Speed: 0}      {Prompt}
+
+{Speed: 0}*: "{Speed: 2}Mako!{Speed: 1}
+ Everything's gonna be OK!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Wilder: "Ugh!{Speed: 3}{Speed: 2}
+ Just who I needed to see...{Speed: 1}
+ Dandy!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Your sister's in
+ good hands now. I went and
+ rescued her."{Speed: 3}{Clear}
+
+{Speed: 0}Saki: "{Speed: 1}Sis!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}Saki!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Wilder: "{Speed: 1}Argh!{Speed: 6}{Speed: 1} Dandy!{Speed: 2}
+ You traitor!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Lowlife brutes like
+ you rub me the wrong way,
+ Wilder."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

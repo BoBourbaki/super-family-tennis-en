@@ -1,0 +1,24 @@
+{Speed: 0}牧野「{Speed: 2}マコ、調子はどうだい?{Speed: 4}{Speed: 2}
+軽井沢テニスロッジオープンも
+準決勝と決勝をのこすだけだ。{Speed: 4}{Speed: 2}
+まずは準決勝、{Speed: 4}{Speed: 2}いつもの調子で
+落ち着いていけば勝てる!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}はい、コーチ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}相手はビューティだ。{Speed: 4}{Speed: 2}
+究極のテニスプレイヤーになる
+第一歩だからな。{Speed: 4}{Speed: 2}気を抜かずに
+しっかりいけ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 2}はいっ!」{Speed: 8}
+{Speed: 0}
+{Speed: 0}
+{Speed: 0}      {Prompt}
+
+{Speed: 0}*「{Speed: 2}マコさん!!!」{Speed: 15}{Music: 2}{Clear}
+
+{Next Scene}{Speed: 0}ビューティ「{Speed: 2}わたし{Speed: 4}{Speed: 2}ゼッタイに
+あなたには負けないわ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

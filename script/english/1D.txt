@@ -1,0 +1,51 @@
+{Speed: 0}Dandy: "{Speed: 2}Milk!{Speed: 4}{Speed: 2}
+ Are you OK?"
+
+{Speed: 0}Milk: "{Speed: 2}... ... ...{Speed: 10}{Speed: 2}Dandy{Speed: 10}{Speed: 2}..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Waaaaahhh!!!{Speed: 6}{Speed: 2}
+ I'm sorry...!
+ I'm so, so sorry!"{Speed: 15}{Clear}
+
+{Speed: 0}Dandy: "{Speed: 2}What for?{Speed: 4}{Speed: 2}
+ You've got nothing to
+ apologize for."{Speed: 15}{Clear}
+
+{Speed: 0}Milk: "{Speed: 2}The whole thing was a
+ setup.{Speed: 4}{Speed: 2} I asked Piroshkinov
+ and Caviano to do all this.{Speed: 1}
+{Speed: 4}{Speed: 2} Waaaaahhh..."{Speed: 15}{Clear}
+
+{Speed: 0}Dandy: "{Speed: 1}Seriously!?{Speed: 3}{Speed: 1}
+ But, why...?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}You were all
+ goo-goo-ga-ga over Mako...
+ And I just wanted you to
+ like ME instead...{Speed: 6}{Speed: 2}
+ That's why I did it..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Waaaaahhh...{Speed: 4}{Speed: 2}
+ I'm sorry...
+ I'm so sorry...{Speed: 4}{Speed: 2}
+ Waaaaahhh..."{Speed: 15}{Clear}
+
+{Speed: 0}Dandy: "{Speed: 2}Milk...{Speed: 6}{Speed: 2}
+ Do you really like me
+ that much...?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Milk!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Milk: "{Speed: 2}Dandy♥"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Oh, jeez.{Speed: 4}{Speed: 2}
+ Glad that's all sorted
+ out."{Speed: 15}{Speed: 8}{Clear}
+
+{Speed: 0}Piroshkinov: "{Speed: 2}Tell me about
+ it."{Speed: 15}{Speed: 8}{Clear}
+
+{Speed: 0}Caviano: "{Speed: 2}Just seeing this
+ makes me kind of jealous."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

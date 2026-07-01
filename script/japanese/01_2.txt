@@ -1,0 +1,9 @@
+{Speed: 0} おめでとうございます!{Speed: 8}
+{Speed: 2}トーストラリアオープンで
+かるく優勝をさらったあなたは
+オレンジオープンへとむかう!{Speed: 15}{Speed: 2}{Clear}
+
+
+{Speed: 1}  夢はグランドスラムだ!{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

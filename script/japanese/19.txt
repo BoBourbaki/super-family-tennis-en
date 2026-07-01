@@ -1,0 +1,11 @@
+{Speed: 0}ダンディ「{Speed: 2}マコく{Speed: 1}~~~~{Speed: 2}ん!{Speed: 3}{Speed: 2}
+おわったら このあいだの
+へんじをきかせてくれたまえ
+よ{Speed: 1}~~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}むっか{Speed: 1}~~~~!」{Speed: 15}{Clear}
+
+{Speed: 1}『ミルクちゃんは さらに怒り
+ のパワーがみなぎってきた』{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

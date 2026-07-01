@@ -1,0 +1,5 @@
+{Speed: 0}レッドエース「{Speed: 2}まだまだだな。{Speed: 4}{Speed: 2}
+もっと実力をつけてからでなお
+してこい!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

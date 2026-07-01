@@ -1,0 +1,10 @@
+{Speed: 0}Dandy: "{Speed: 2}Mako, you've really
+ let me down hard. Come face
+ me again once you've become
+ a better player!"{Speed: 4}{Speed: 2}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Dandy: "{Speed: 2}Farewell,
+ and adieu!
+ Le miserable Mako!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

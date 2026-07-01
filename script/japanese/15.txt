@@ -1,0 +1,20 @@
+{Speed: 0}ブラボー「{Speed: 1}いやっほぅ!{Speed: 3}{Speed: 2}強いな
+マコちゃん。{Speed: 4}{Speed: 2}きみになら負けて
+も悔いはないな。{Speed: 4}{Speed: 2}楽しかったよ
+ありがとう。{Speed: 4}{Speed: 2}{Speed: 1}ひゃっほぅほぅ」{Speed: 15}{Clear}
+
+{Speed: 6}{Next Scene}{Speed: 0}ミルク「{Speed: 2}あなたがマコさんね。{Speed: 4}{Speed: 2}
+わたしはミルク」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}決勝であなたと戦う
+ことになったわ。{Speed: 4}{Speed: 2}もし{Speed: 8}{Speed: 2}わたしが
+勝ったらダンディから手をひい
+てもらうわよ、{Speed: 12}{Speed: 2}いいこと」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}ダンディは わたしの
+ものよ!{Speed: 3}{Speed: 2}だれにもわたさないん
+だから!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ミルク「{Speed: 2}かくごしてなさい!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

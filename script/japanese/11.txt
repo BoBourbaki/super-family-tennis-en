@@ -1,0 +1,29 @@
+{Speed: 0}ダンディ「{Speed: 2}わたしを負かせた
+のは きみが初めてだよ。{Speed: 4}{Speed: 2}{Speed: 1}気に
+いった!{Speed: 3}{Speed: 2}わたしは強いものが
+好きだ」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}わたしは きみを
+わたしのフィアンセに決めた」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}ええっ!{Speed: 3}{Speed: 2}そんなぁ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 1}失礼じゃないか、
+きみ!!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}きみは 彼女の
+恋人か?」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}い…{Speed: 8}{Speed: 2}いや…ぼくは ただ
+コーチとしてだな…」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}コーチなら関係
+なかろう。{Speed: 4}{Speed: 2}マコくん、つぎに
+会う時までにかんがえといて
+くれたまえ。」{Speed: 4}{Speed: 2}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}それじゃ、また。{Speed: 4}{Speed: 1}
+アディユー、マイ スウィート
+マドモアゼル マコ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

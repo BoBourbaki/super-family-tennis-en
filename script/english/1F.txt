@@ -1,0 +1,7 @@
+{Speed: 0}Red Ace: "{Speed: 2}This is a 3-set
+ match!{Speed: 3}{Speed: 2} Don't lose your
+ nerve in the homestretch!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 1}... ... ...!!!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

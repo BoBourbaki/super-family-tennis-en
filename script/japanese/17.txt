@@ -1,0 +1,12 @@
+{Speed: 0}牧野「{Speed: 2}いよいよ決勝だな。{Speed: 4}{Speed: 2}決勝
+は3セットマッチだ。{Speed: 4}{Speed: 2} 後半で
+気を抜くなよ。{Speed: 4}{Speed: 2}
+相手のミルクちゃんは、かわい
+い顔して強烈なバックハンドを
+もっている」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}牧野「{Speed: 2}怒らせると実力を
+こえたパワーをだすそうだから
+気をつけろよ!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

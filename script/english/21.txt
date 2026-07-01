@@ -1,0 +1,19 @@
+{Speed: 0}Red Ace: "{Speed: 2}You win, Mako.{Speed: 10}
+{Speed: 2} I can't believe it.
+ You're the ultimate tennis
+ player.{Speed: 4}{Speed: 2} Congratulations!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}... ... ...{Speed: 6}{Speed: 2}Coach...?{Speed: 6}{Speed: 2}
+ Coach Makino!?"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Guess the jig
+ is up."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 2}Mako, you've done
+ so well to surpass me.{Speed: 4}{Speed: 2}{Speed: 12}{Speed: 2}
+ Now, you're the ultimate
+ tennis player."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Mako: "{Speed: 2}Coach Makino{Speed: 6}{Speed: 2}..."{Speed: 15}{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

@@ -1,0 +1,35 @@
+{Speed: 0}ワイルドル「{Speed: 2}わかっているな?{Speed: 4}{Speed: 2}
+{Speed: 4}マ~コ~{Speed: 1}ちゃ{Speed: 2}ん」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}……………」{Speed: 8}
+{Speed: 0}
+{Speed: 0}
+{Speed: 0}      {Prompt}
+
+{Speed: 0}*「{Speed: 2}マコくん!
+  安心したま{Speed: 1}えぇ~~~!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 2}あっ!{Speed: 3}{Speed: 2}きさまは…
+ {Speed: 1}ダンディ!!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}きみの妹さんは
+このわたしがたすけだしたぞ」{Speed: 3}{Clear}
+
+{Speed: 0}サキ「{Speed: 1}おねえちゃ~ん!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}マコ「{Speed: 1}サキ!!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ワイルドル「{Speed: 1}あっ!{Speed: 6}{Speed: 1}ダンディ!
+{Speed: 2}きさま うらぎりやがったな」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}わたしは きみの
+ような ヒレツで ゲヒンで
+ヤバンなやり方は好まんのだよ
+ワイルドルくん」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}ダンディ「{Speed: 2}マコくん。{Speed: 4}{Speed: 2}これで
+安心して心ゆくまで戦えるだろ
+う。{Speed: 4}{Speed: 2}きみの真の実力、{Speed: 6}{Speed: 1}みせて
+もらおうか!」{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}

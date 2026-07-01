@@ -1,0 +1,63 @@
+{Speed: 0}      Congratulations!{Speed: 8}
+{Speed: 2}You won the four tournaments
+and emerged victorious in
+the Grand Slam!{Speed: 15}{Clear}
+
+{Speed: 2}Tales of your glory shall
+be told through the ages!{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}   PROGRAM{Speed: 8}
+
+{Speed: 2}    NAKA-P{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}   PROGRAM{Speed: 8}
+
+{Speed: 2}  MAYU CHAN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}GRAPHIC DESIGN{Speed: 8}
+
+{Speed: 2}   CRYSTAL-K
+{Speed: 2}   WAGACHAN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}      &
+    {Speed: 2}KAGURA
+     NOVE
+    KUNIMI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0} SOUND DESIGN{Speed: 8}
+
+{Speed: 2}   KAWAGEN{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}  THANKS TO{Speed: 8}
+{Speed: 2}PAPAMYNYANYAN
+    YU-YU
+    SHIMA{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Clear}
+
+{Speed: 0} DIRECTED BY{Speed: 8}
+
+{Speed: 2} S●SAKURAZAKI{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 15}{Clear}
+
+{Speed: 2}We, the staff, would also
+like to congratulate you!{Speed: 8}{Speed: 2}
+We hope you'll accept this
+humble gift from us.{Speed: 15}{Speed: 2}{Clear}
+
+{Speed: 2}>On the title screen, press
+ SELECT 5 times, then press
+ START.
+{Speed: 0}      {Prompt}
+
+Give it a try!{Speed: 15}{Clear}
+
+{Speed: 4}THANK YOU
+{Speed: 0} {Speed: 4}FOR PLAYING!
+ SEE YOU LATER{Speed: 15}{Speed: 15}{Speed: 15}{Speed: 15}{Clear}
+
+{Speed: 0}
+ ♥ THE END ♥{Next Scene}

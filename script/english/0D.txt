@@ -1,0 +1,20 @@
+{Speed: 0}Makino: "{Speed: 2}Your first opponent
+ today is Sapphirine. She's
+ got a mean backhand and
+ lays the topspin on hard.{Speed: 4}{Speed: 2}
+ Hold it together and wait
+ for an opening, then let
+ her have it."{Speed: 10}{Clear}
+
+{Speed: 0}*: "{Speed: 2}As IF I'll let you have
+ your way THAT easily..."{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}{Speed: 0}Makino: "{Speed: 1}Sapphirine!"{Speed: 10}{Clear}
+
+{Speed: 0}Sapphirine: "{Speed: 1}Mako!{Speed: 5}{Speed: 2}
+ I haven't let a second go
+ to waste training to thrash
+ you today.{Speed: 4}{Speed: 2} You won't beat
+ me!"{Speed: 15}{Speed: 8}{Clear}
+
+{Next Scene}
