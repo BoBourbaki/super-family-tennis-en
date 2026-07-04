@@ -71,6 +71,9 @@ NewSetCharacterColor:
 	STA $0306
 	RTL
 
+org $1AA7DC ;Change palette of text on sign screens.
+	dw $6620, $7FFF, $1DB9, $5EF7
+
 
 
 ;Make text speed changes more granular.

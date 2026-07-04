@@ -44,7 +44,8 @@ Here is some useful information for anyone looking to contribute to this project
 	* Quotation marks alternate between open and closed quotes. If for some reason you want to write double quotes, you can use \{8D\} as an open quote and \{8E\} as a closed quote. For example, \{8D\}\{8D\}Hi\{8E\}\{8E\} would display as \""Hi\"".
 	* The control codes \{Clear\} and \{Prompt\} must always be followed by two new lines.
 * Graphics
-	* The graphics assets in "gfx/japanese" and "gfx/english" are stored exactly as they are in VRAM. For more information, see the SNESdev Wiki's articles on [tilemaps](https://snes.nesdev.org/wiki/Tilemaps), [tiles](https://snes.nesdev.org/wiki/Tiles), and [palettes](https://snes.nesdev.org/wiki/Palettes).
+	* The graphics assets in "gfx/japanese" and "gfx/english" are stored in the same format as they are in VRAM. For more information, see the SNESdev Wiki's articles on [tilemaps](https://snes.nesdev.org/wiki/Tilemaps), [tiles](https://snes.nesdev.org/wiki/Tiles), and [palettes](https://snes.nesdev.org/wiki/Palettes).
+	* All the text on the Namcot Theater signs shares a single tileset, "gfx/english/sign_layer3_tileset.bin", but each sign has its own 0x800 byte long text tilemap. The tilemaps are stored contiguously in the file "gfx/english/sign_layer3_tilemaps.bin".
 
 ## Building
 Requires Java to be installed.

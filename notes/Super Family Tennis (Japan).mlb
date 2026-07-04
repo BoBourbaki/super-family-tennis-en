@@ -18,6 +18,12 @@ SnesPrgRom:12634::Layer 2 tilemap
 SnesPrgRom:12643::Layer 3 tileset
 SnesPrgRom:12652::OAM1 tileset part 1
 SnesPrgRom:12661::OAM1 tileset part 2
+SnesPrgRom:16A7F:_initializeSign1:Load palette
+SnesPrgRom:16A93::Sign layer 3 tilemaps\n9 tilemaps loaded (one for each sign)\nwhich one get DMAed into VRAM determined\nby scene.\n\nEach one is $0800 bytes.
+SnesPrgRom:16B16:_initializeSign2
+SnesPrgRom:16B1D::Sign layer 1 tileset
+SnesPrgRom:16B2C::Sign layer 1 tilemap
+SnesPrgRom:16B3B::Sign layer 3 tileset
 SnesPrgRom:1800B:_cutSceneHandler
 SnesPrgRom:1812C:_initalizeCutsceneEngine
 SnesPrgRom:183E7:_textHandler
@@ -44,6 +50,10 @@ SnesPrgRom:20917:_initializeScene04_1
 SnesPrgRom:20AB4:_initializeScene04_2
 SnesPrgRom:20AE1::Layer 2 tileset
 SnesPrgRom:20AF0::Layer 2 tilemap
+SnesPrgRom:2E022:_initializeSelectionSign1
+SnesPrgRom:2E055::Sign layer 3 tilemaps
+SnesPrgRom:2E0D3:_initializeSelectionSign2
+SnesPrgRom:2E0F2::Sign layer 3 tileset
 SnesWorkRam:0780-0781:@currentScene
 SnesWorkRam:0786-0787:@textMode:Must be a multiple of 2.
 SnesWorkRam:0788-0789:@framesUntilNextCharPrinted

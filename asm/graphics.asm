@@ -116,3 +116,35 @@ org $048AF1
 	PLB
 	PLB
 	LDX #Scene04NoteTilemap
+
+
+segment
+SignLayer3Tileset:
+	incbin "../gfx/binary/sign_layer3_tileset.bin"
+
+org $02EB3C
+	db SignLayer3Tileset>>16
+	db SignLayer3Tileset>>16
+	PLB
+	PLB
+	LDX #SignLayer3Tileset
+
+org $05E0F3
+	db SignLayer3Tileset>>16
+	db SignLayer3Tileset>>16
+	PLB
+	PLB
+	LDX #SignLayer3Tileset
+
+
+segment
+SignLayer3Tilemaps:
+	incbin "../gfx/binary/sign_layer3_tilemaps.bin"
+
+org $02EA9C
+	db SignLayer3Tilemaps>>16
+	LDY #SignLayer3Tilemaps
+
+org $05E05B
+	db SignLayer3Tilemaps>>16
+	LDY #SignLayer3Tilemaps

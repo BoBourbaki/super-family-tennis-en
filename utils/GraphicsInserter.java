@@ -21,7 +21,9 @@ public class GraphicsInserter {
 														"title_screen_layer3_tileset.bin",
 														"password_OAM1_tileset.bin",
 														"scene_04_note_tileset.bin",
-														"scene_04_note_tilemap.bin"};
+														"scene_04_note_tilemap.bin",
+														"sign_layer3_tilemaps.bin",
+														"sign_layer3_tileset.bin"};
 	
 	public static void main(String[] args) {
 		if (args.length != 2) {

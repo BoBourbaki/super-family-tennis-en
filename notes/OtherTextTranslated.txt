@@ -83,7 +83,7 @@ Kyoto Namco Shrine Court
 沖縄ムーンビーチ
 Okinawa Moon Beach
 ヘブンズタワー絶壁コート
-Heaven's Tower Cliff Court
+Heavens Tower Cliff Court
 ナムコグラスコート
 Namco Grass Court
 ナムコハードコート
@@ -197,7 +197,7 @@ Mako VS Dandy
 Namcot Theater: Chapter 5 sign
 沖縄ムーンビーチ
 オープン
-マコVS ブラボー
+マコ VS ブラボー
 1セットマッチ
 Okinawa Moon Beach
 Open
@@ -207,7 +207,7 @@ Mako VS Bravo
 Namcot Theater: Chapter 6 sign
 沖縄ムーンビーチ
 オープン
-マコVS ミルク
+マコ VS ミルク
 3セットマッチ
 Okinawa Moon Beach
 Open
@@ -248,7 +248,7 @@ Namcot Theater: Chapter 8 sign
 ヘブンズタワー絶壁コート
 マコ VS レッドエース
 3セットマッチ
-Heaven's Tower Cliff
+Heavens Tower Cliff
 Court
 Mako VS Red Ace
 3-Set Match

@@ -137,11 +137,15 @@ org $17BEDF ;Scene 04 layer 2 tileset ($073F bytes, $0E6F contiguous with Title 
 pad $17C61E
 org $19F522 ;Scene 04 layer 2 tilemap ($019F bytes)
 pad $19F6C1
+org $15EAE9 ;Sign layer 3 tileset ($0A62 bytes)
+pad $15F54B
+org $16B089	;Sign layer 3 tilemaps ($0939 bytes)
+pad $16B9C2
 
 
 ;Expands the ROM to 1280 KB. Uncomment this code if ROM expansion is necessary. If expansion is necessary and this code
 ;is not uncommented, Asar will expand the ROM to 2048 KB, leaving more than 24 banks of empty space in the final build.
-;org $A08000
-;pad $A88000
-;org $80FFD7 ;Corrects ROM size in header.
-;	db $0B
+org $A08000
+pad $A88000
+org $80FFD7 ;Corrects ROM size in header.
+	db $0B
