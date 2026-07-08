@@ -74,6 +74,12 @@ NewSetCharacterColor:
 org $1AA7DC ;Change palette of text on sign screens.
 	dw $6620, $7FFF, $1DB9, $5EF7
 
+org $08FF8B ;Change palette of multitap warning.
+	dw $000C, $7FFF, $001F, $5EF7
+	dw $3800, $371F, $001F, $0012
+	dw $3CC6, $4508, $4D4A, $558C
+	dw $4D4A, $4508, $3CC6, $3400
+
 
 
 ;Make text speed changes more granular.

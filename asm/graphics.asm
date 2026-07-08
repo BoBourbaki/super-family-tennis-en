@@ -148,3 +148,48 @@ org $02EA9C
 org $05E05B
 	db SignLayer3Tilemaps>>16
 	LDY #SignLayer3Tilemaps
+
+
+segment
+MultitapWarningLayer3Tileset:
+	incbin "../gfx/binary/multitap_warning_layer3_tileset.bin"
+
+org $02A3EC
+	db MultitapWarningLayer3Tileset>>16
+	db MultitapWarningLayer3Tileset>>16
+	PLB
+	PLB
+	LDX #MultitapWarningLayer3Tileset
+
+
+segment
+MultitapWarningLayer3Tilemap:
+	incbin "../gfx/binary/multitap_warning_layer3_tilemap.bin"
+
+org $02A3FB
+	db MultitapWarningLayer3Tilemap>>16
+	db MultitapWarningLayer3Tilemap>>16
+	PLB
+	PLB
+	LDX #MultitapWarningLayer3Tilemap
+
+
+segment
+GameSettingsMenuLayer2Tileset:
+	incbin "../gfx/binary/game_settings_menu_layer2_tileset.bin"
+
+org $02B79A
+	db GameSettingsMenuLayer2Tileset>>16
+	db GameSettingsMenuLayer2Tileset>>16
+	PLB
+	PLB
+	LDX #GameSettingsMenuLayer2Tileset
+
+
+segment
+GameSettingsMenuLayer2Tilemap:
+	incbin "../gfx/binary/game_settings_menu_layer2_tilemap.bin"
+
+org $02B730
+	db GameSettingsMenuLayer2Tilemap>>16
+	LDY #GameSettingsMenuLayer2Tilemap

@@ -23,7 +23,11 @@ public class GraphicsInserter {
 														"scene_04_note_tileset.bin",
 														"scene_04_note_tilemap.bin",
 														"sign_layer3_tilemaps.bin",
-														"sign_layer3_tileset.bin"};
+														"sign_layer3_tileset.bin",
+														"multitap_warning_layer3_tilemap.bin",
+														"multitap_warning_layer3_tileset.bin",
+														"game_settings_menu_layer2_tilemap.bin",
+														"game_settings_menu_layer2_tileset.bin"};
 	
 	public static void main(String[] args) {
 		if (args.length != 2) {

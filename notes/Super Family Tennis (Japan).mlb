@@ -4,6 +4,9 @@ SnesPrgRom:0F57:_fadeOutHandler
 SnesPrgRom:12CE:_DecompressionRoutine1:A = High 8 bits of pointer to input\nY = Low 16 bits of pointer to input\nX = Low 16 bits of pointer to output\nDB = High 8 bits of pointer to output
 SnesPrgRom:1310:_DecompressionRoutine2:Writes directly to VRAM\nDB = High 8 bits of pointer to input\nX = Low 16 bits of pointer to input\nY = VRAM address to write to
 SnesPrgRom:88C9:_renderSprites
+SnesPrgRom:123D9:_initializeMultitapWarning
+SnesPrgRom:123EB::Layer 3 tileset
+SnesPrgRom:123FA::Layer 3 tilemap
 SnesPrgRom:1246E:_initializeTitleScreen1
 SnesPrgRom:124BA::Layer 1 tilemap\n(also loaded in initalizeTitleScreen2\nfor some reason)
 SnesPrgRom:124C6::Layer 2 tileset
@@ -18,7 +21,11 @@ SnesPrgRom:12634::Layer 2 tilemap
 SnesPrgRom:12643::Layer 3 tileset
 SnesPrgRom:12652::OAM1 tileset part 1
 SnesPrgRom:12661::OAM1 tileset part 2
-SnesPrgRom:16A7F:_initializeSign1:Load palette
+SnesPrgRom:136CB:_initializeGameSettingsMenu1
+SnesPrgRom:13727::Layer 2 tilemap
+SnesPrgRom:1376B:_initializeGameSettingsMenu2
+SnesPrgRom:13799::Layer 2 tileset
+SnesPrgRom:16A7F:_initializeSign1
 SnesPrgRom:16A93::Sign layer 3 tilemaps\n9 tilemaps loaded (one for each sign)\nwhich one get DMAed into VRAM determined\nby scene.\n\nEach one is $0800 bytes.
 SnesPrgRom:16B16:_initializeSign2
 SnesPrgRom:16B1D::Sign layer 1 tileset
@@ -50,10 +57,6 @@ SnesPrgRom:20917:_initializeScene04_1
 SnesPrgRom:20AB4:_initializeScene04_2
 SnesPrgRom:20AE1::Layer 2 tileset
 SnesPrgRom:20AF0::Layer 2 tilemap
-SnesPrgRom:2E022:_initializeSelectionSign1
-SnesPrgRom:2E055::Sign layer 3 tilemaps
-SnesPrgRom:2E0D3:_initializeSelectionSign2
-SnesPrgRom:2E0F2::Sign layer 3 tileset
 SnesWorkRam:0780-0781:@currentScene
 SnesWorkRam:0786-0787:@textMode:Must be a multiple of 2.
 SnesWorkRam:0788-0789:@framesUntilNextCharPrinted

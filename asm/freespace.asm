@@ -141,6 +141,14 @@ org $15EAE9 ;Sign layer 3 tileset ($0A62 bytes)
 pad $15F54B
 org $16B089	;Sign layer 3 tilemaps ($0939 bytes)
 pad $16B9C2
+org $08EEF1 ;Multitap warning layer 3 tileset ($0501 bytes, $0B49 contiguous with tilemap and game settings menu tilemap)
+pad $08F3F2
+org $08F3F2 ;Multitap warning layer 3 tilemap ($0335 bytes)
+pad $08F727
+org $08CDA8 ;Game settings menu layer 2 tileset ($199B bytes)
+pad $08E743
+org $08F727	;Game settings menu layer 2 tilemap ($0313 bytes)
+pad $08FA3A
 
 
 ;Expands the ROM to 1280 KB. Uncomment this code if ROM expansion is necessary. If expansion is necessary and this code

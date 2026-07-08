@@ -104,19 +104,18 @@ Warning for plugging Super Multitap into controller port 1
 コントローラコネクタ2にのみ
 接続してください。
 注意
-|コントローラコネクタ1には、
-|絶対に接続しないでください。
+コントローラコネクタ1には、
+絶対に接続しないでください。
 また、マルチタップにはコント
 ローラ以外は接続しないでくだ
 さい。
-Please plug the
-Super Multitap into
-Controller Port 2 only.
+Please plug the multitap
+into controller port 2 only.
 WARNING
-Do not connect it to
-Controller Port 1.
+Do not connect the multitap
+to controller port 1.
 Connect only controllers to
-the Super Multitap.
+the multitap.
 
 First tourament name
 ナムコット オープン
